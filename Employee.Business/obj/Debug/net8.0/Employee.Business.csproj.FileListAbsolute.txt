@@ -1,0 +1,15 @@
+D:\New Project\employeedata2\EmployeeData\Employee.Business\bin\Debug\net8.0\Employee.Business.deps.json
+D:\New Project\employeedata2\EmployeeData\Employee.Business\bin\Debug\net8.0\Employee.Business.dll
+D:\New Project\employeedata2\EmployeeData\Employee.Business\bin\Debug\net8.0\Employee.Business.pdb
+D:\New Project\employeedata2\EmployeeData\Employee.Business\bin\Debug\net8.0\Employee.Model.dll
+D:\New Project\employeedata2\EmployeeData\Employee.Business\bin\Debug\net8.0\Employee.Model.pdb
+D:\New Project\employeedata2\EmployeeData\Employee.Business\obj\Debug\net8.0\Employee.Business.csproj.AssemblyReference.cache
+D:\New Project\employeedata2\EmployeeData\Employee.Business\obj\Debug\net8.0\Employee.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Project\employeedata2\EmployeeData\Employee.Business\obj\Debug\net8.0\Employee.Business.AssemblyInfoInputs.cache
+D:\New Project\employeedata2\EmployeeData\Employee.Business\obj\Debug\net8.0\Employee.Business.AssemblyInfo.cs
+D:\New Project\employeedata2\EmployeeData\Employee.Business\obj\Debug\net8.0\Employee.Business.csproj.CoreCompileInputs.cache
+D:\New Project\employeedata2\EmployeeData\Employee.Business\obj\Debug\net8.0\Employee.98402159.Up2Date
+D:\New Project\employeedata2\EmployeeData\Employee.Business\obj\Debug\net8.0\Employee.Business.dll
+D:\New Project\employeedata2\EmployeeData\Employee.Business\obj\Debug\net8.0\refint\Employee.Business.dll
+D:\New Project\employeedata2\EmployeeData\Employee.Business\obj\Debug\net8.0\Employee.Business.pdb
+D:\New Project\employeedata2\EmployeeData\Employee.Business\obj\Debug\net8.0\ref\Employee.Business.dll

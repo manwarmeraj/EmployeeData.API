@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Employee.Business/1.0.0": {
+        "dependencies": {
+          "Employee.Model": "1.0.0"
+        },
+        "runtime": {
+          "Employee.Business.dll": {}
+        }
+      },
+      "Employee.Model/1.0.0": {
+        "runtime": {
+          "Employee.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
