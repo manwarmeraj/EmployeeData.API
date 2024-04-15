@@ -34,3 +34,40 @@ D:\New Project\employeedata2\EmployeeData\EmployeeData\bin\Debug\net8.0\Employee
 D:\New Project\employeedata2\EmployeeData\EmployeeData\bin\Debug\net8.0\Employee.Model.dll
 D:\New Project\employeedata2\EmployeeData\EmployeeData\bin\Debug\net8.0\Employee.Business.pdb
 D:\New Project\employeedata2\EmployeeData\EmployeeData\bin\Debug\net8.0\Employee.Model.pdb
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\appsettings.Development.json
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\appsettings.json
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\EmployeeData.exe
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\EmployeeData.deps.json
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\EmployeeData.runtimeconfig.json
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\EmployeeData.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\EmployeeData.pdb
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Employee.Business.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Employee.Model.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Employee.Business.pdb
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Employee.Model.pdb
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.csproj.AssemblyReference.cache
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.AssemblyInfoInputs.cache
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.AssemblyInfo.cs
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.csproj.CoreCompileInputs.cache
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.MvcApplicationPartsAssemblyInfo.cs
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.MvcApplicationPartsAssemblyInfo.cache
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.sourcelink.json
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\staticwebassets.build.json
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\staticwebassets.development.json
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeData.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeData.props
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeData.props
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeData.props
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\staticwebassets.pack.json
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\scopedcss\bundle\EmployeeData.styles.css
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.csproj.CopyComplete
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\refint\EmployeeData.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.pdb
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.genruntimeconfig.cache
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\ref\EmployeeData.dll

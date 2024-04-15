@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New Project\\employeedata2\\EmployeeData\\EmployeeData\\EmployeeData.csproj": {}
+    "D:\\AssesmentProjects\\EmployeeData.API\\EmployeeData\\EmployeeData.csproj": {}
   },
   "projects": {
-    "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\Employee.Business.csproj": {
+    "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Business\\Employee.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\Employee.Business.csproj",
+        "projectUniqueName": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Business\\Employee.Business.csproj",
         "projectName": "Employee.Business",
-        "projectPath": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\Employee.Business.csproj",
-        "packagesPath": "C:\\Users\\SSD\\.nuget\\packages\\",
-        "outputPath": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\obj\\",
+        "projectPath": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Business\\Employee.Business.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Business\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\SSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Model\\Employee.Model.csproj": {
-                "projectPath": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Model\\Employee.Model.csproj"
+              "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Model\\Employee.Model.csproj": {
+                "projectPath": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Model\\Employee.Model.csproj"
               }
             }
           }
@@ -38,11 +43,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,21 +64,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Model\\Employee.Model.csproj": {
+    "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Model\\Employee.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Model\\Employee.Model.csproj",
+        "projectUniqueName": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Model\\Employee.Model.csproj",
         "projectName": "Employee.Model",
-        "projectPath": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Model\\Employee.Model.csproj",
-        "packagesPath": "C:\\Users\\SSD\\.nuget\\packages\\",
-        "outputPath": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Model\\obj\\",
+        "projectPath": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Model\\Employee.Model.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\SSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,6 +90,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -98,11 +103,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -124,21 +124,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\New Project\\employeedata2\\EmployeeData\\EmployeeData\\EmployeeData.csproj": {
+    "D:\\AssesmentProjects\\EmployeeData.API\\EmployeeData\\EmployeeData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New Project\\employeedata2\\EmployeeData\\EmployeeData\\EmployeeData.csproj",
+        "projectUniqueName": "D:\\AssesmentProjects\\EmployeeData.API\\EmployeeData\\EmployeeData.csproj",
         "projectName": "EmployeeData",
-        "projectPath": "D:\\New Project\\employeedata2\\EmployeeData\\EmployeeData\\EmployeeData.csproj",
-        "packagesPath": "C:\\Users\\SSD\\.nuget\\packages\\",
-        "outputPath": "D:\\New Project\\employeedata2\\EmployeeData\\EmployeeData\\obj\\",
+        "projectPath": "D:\\AssesmentProjects\\EmployeeData.API\\EmployeeData\\EmployeeData.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\AssesmentProjects\\EmployeeData.API\\EmployeeData\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\SSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -146,14 +150,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\Employee.Business.csproj": {
-                "projectPath": "D:\\New Project\\employeedata2\\EmployeeData\\Employee.Business\\Employee.Business.csproj"
+              "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Business\\Employee.Business.csproj": {
+                "projectPath": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Business\\Employee.Business.csproj"
               }
             }
           }
@@ -162,11 +167,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -197,7 +197,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

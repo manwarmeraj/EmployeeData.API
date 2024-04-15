@@ -10,5 +10,8 @@ namespace Employee.Business.Contract
     public interface IEmployeeBusiness
     {
         IEnumerable<EmployeeMaster> GetEmployee();
+        IEnumerable<EmployeeMaster> GetEmployeebyid(int id);
+        IEnumerable<object> GetList();
+        IEnumerable<object> GetTotalSalary(int EmpId, DateTime DateTimeFrom, DateTime DateTimeTo);
     }
 }
