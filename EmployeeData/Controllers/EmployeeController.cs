@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace EmployeeData.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class EmployeeController : ControllerBase
     {
@@ -21,5 +21,27 @@ namespace EmployeeData.Controllers
             var result = _EmployeeBusiness.GetEmployee();
             return result;
         }
+
+        [HttpGet()]
+        public IEnumerable<EmployeeMaster> Getemployeebyid(int id)
+        {
+            var result = _EmployeeBusiness.GetEmployeebyid(id);
+            return result;
+        }
+
+        [HttpGet()]
+        public IEnumerable<object> GetList()
+        {
+            var result = _EmployeeBusiness.GetList();
+            return result;
+        }
+
+        [HttpGet()]
+        public IEnumerable<object> GetTotalSalary(int EmpID, DateTime DateTimeFrom, DateTime DateTimeTo)
+        {
+            var result = _EmployeeBusiness.GetTotalSalary(EmpID, DateTimeFrom, DateTimeTo);
+            return result;
+        }
+
     }
 }

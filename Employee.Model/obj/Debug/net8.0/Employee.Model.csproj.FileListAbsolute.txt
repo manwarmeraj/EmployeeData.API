@@ -9,3 +9,15 @@ D:\New Project\employeedata2\EmployeeData\Employee.Model\obj\Debug\net8.0\Employ
 D:\New Project\employeedata2\EmployeeData\Employee.Model\obj\Debug\net8.0\refint\Employee.Model.dll
 D:\New Project\employeedata2\EmployeeData\Employee.Model\obj\Debug\net8.0\Employee.Model.pdb
 D:\New Project\employeedata2\EmployeeData\Employee.Model\obj\Debug\net8.0\ref\Employee.Model.dll
+D:\AssesmentProjects\EmployeeData.API\Employee.Model\bin\Debug\net8.0\Employee.Model.deps.json
+D:\AssesmentProjects\EmployeeData.API\Employee.Model\bin\Debug\net8.0\Employee.Model.dll
+D:\AssesmentProjects\EmployeeData.API\Employee.Model\bin\Debug\net8.0\Employee.Model.pdb
+D:\AssesmentProjects\EmployeeData.API\Employee.Model\obj\Debug\net8.0\Employee.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssesmentProjects\EmployeeData.API\Employee.Model\obj\Debug\net8.0\Employee.Model.AssemblyInfoInputs.cache
+D:\AssesmentProjects\EmployeeData.API\Employee.Model\obj\Debug\net8.0\Employee.Model.AssemblyInfo.cs
+D:\AssesmentProjects\EmployeeData.API\Employee.Model\obj\Debug\net8.0\Employee.Model.csproj.CoreCompileInputs.cache
+D:\AssesmentProjects\EmployeeData.API\Employee.Model\obj\Debug\net8.0\Employee.Model.sourcelink.json
+D:\AssesmentProjects\EmployeeData.API\Employee.Model\obj\Debug\net8.0\Employee.Model.dll
+D:\AssesmentProjects\EmployeeData.API\Employee.Model\obj\Debug\net8.0\refint\Employee.Model.dll
+D:\AssesmentProjects\EmployeeData.API\Employee.Model\obj\Debug\net8.0\Employee.Model.pdb
+D:\AssesmentProjects\EmployeeData.API\Employee.Model\obj\Debug\net8.0\ref\Employee.Model.dll
