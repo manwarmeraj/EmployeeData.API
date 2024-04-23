@@ -1,6 +1,4 @@
 ﻿using Employee.Business.Contract;
-using Employee.Model;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EmployeeData.Controllers
@@ -9,39 +7,32 @@ namespace EmployeeData.Controllers
     [ApiController]
     public class EmployeeController : ControllerBase
     {
-        private readonly IEmployeeBusiness _EmployeeBusiness;
+        private readonly IEmployeeBusiness _employeeBusiness;
         public EmployeeController(IEmployeeBusiness EmployeeBusiness)
         {
-            _EmployeeBusiness = EmployeeBusiness;
+            _employeeBusiness = EmployeeBusiness;
         }
 
-        [HttpGet()]
-        public IEnumerable<EmployeeMaster> Getemployee()
+        [HttpGet]
+        public async Task<IActionResult> GetList()
         {
-            var result = _EmployeeBusiness.GetEmployee();
-            return result;
+            var result = await _employeeBusiness.GetList();
+
+            if (!result.Any())
+                return BadRequest();
+
+            return Ok(result);
         }
 
-        [HttpGet()]
-        public IEnumerable<EmployeeMaster> Getemployeebyid(int id)
+        [HttpGet]
+        public async Task<IActionResult> GetById([FromHeader] Guid id)
         {
-            var result = _EmployeeBusiness.GetEmployeebyid(id);
-            return result;
-        }
+            var result = await _employeeBusiness.GetById(id);
 
-        [HttpGet()]
-        public IEnumerable<object> GetList()
-        {
-            var result = _EmployeeBusiness.GetList();
-            return result;
-        }
+            if (result == null)
+                return BadRequest();
 
-        [HttpGet()]
-        public IEnumerable<object> GetTotalSalary(int EmpID, DateTime DateTimeFrom, DateTime DateTimeTo)
-        {
-            var result = _EmployeeBusiness.GetTotalSalary(EmpID, DateTimeFrom, DateTimeTo);
-            return result;
+            return Ok(result);
         }
-
     }
 }

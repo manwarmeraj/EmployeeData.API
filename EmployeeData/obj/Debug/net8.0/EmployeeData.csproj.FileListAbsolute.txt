@@ -71,3 +71,13 @@ D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\refint\Emplo
 D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.pdb
 D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\EmployeeData.genruntimeconfig.cache
 D:\AssesmentProjects\EmployeeData.API\EmployeeData\obj\Debug\net8.0\ref\EmployeeData.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\EPPlus.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Employee.Common.dll
+D:\AssesmentProjects\EmployeeData.API\EmployeeData\bin\Debug\net8.0\Employee.Common.pdb

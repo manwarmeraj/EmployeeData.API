@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "NGxqtUCrrr8cCc5jnmeqBKBC4Uu+orcAUtEEZGSFQ+0=",
-  "Source": "EmployeeData",
-  "BasePath": "_content/EmployeeData",
+  "Hash": "w6+pEujmV/QBQH0OBcYsl5MN6xBtjapFkN3bX7H3Ef4=",
+  "Source": "EmployeeData.API",
+  "BasePath": "_content/EmployeeData.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

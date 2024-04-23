@@ -7,7 +7,12 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\Employee.Model\Employee.Model.csproj" />
+	  <PackageReference Include="AutoMapper" Version="13.0.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Employee.Model\Employee.Entity.csproj" />
+	  <ProjectReference Include="..\Employee.Repository\Employee.Repository.csproj" />
 	</ItemGroup>
 
 </Project>
