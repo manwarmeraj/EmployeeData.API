@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Model\\Employee.Entity.csproj": {}
+    "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Entity\\Employee.Entity.csproj": {}
   },
   "projects": {
-    "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Model\\Employee.Entity.csproj": {
+    "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Entity\\Employee.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Model\\Employee.Entity.csproj",
+        "projectUniqueName": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Entity\\Employee.Entity.csproj",
         "projectName": "Employee.Entity",
-        "projectPath": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Model\\Employee.Entity.csproj",
+        "projectPath": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Entity\\Employee.Entity.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Model\\obj\\",
+        "outputPath": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -76,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

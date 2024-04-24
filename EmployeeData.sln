@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeData.API", "EmployeeData\EmployeeData.API.csproj", "{14BF5233-282B-4ED5-8C74-51E73E25A396}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeData.API", "EmployeeData.API\EmployeeData.API.csproj", "{14BF5233-282B-4ED5-8C74-51E73E25A396}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee.Business", "Employee.Business\Employee.Business.csproj", "{D60DCE32-9019-4D63-A0F8-7D52C33A4394}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee.Entity", "Employee.Model\Employee.Entity.csproj", "{32B5BE3D-C3C4-4830-B7D8-AA7D3E000127}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee.Entity", "Employee.Entity\Employee.Entity.csproj", "{32B5BE3D-C3C4-4830-B7D8-AA7D3E000127}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee.Repository", "Employee.Repository\Employee.Repository.csproj", "{5AC69FD1-FCAE-4526-BA76-6FFE5B7A41F2}"
 EndProject

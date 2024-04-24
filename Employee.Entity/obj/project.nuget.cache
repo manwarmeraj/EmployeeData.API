@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rgdzu+uSlxKQE6yC+o2rQNZoye3g8YwqfHgpE6esVO1xcN+39ltxj2+QQyq01rtHPeaXmt97CDJO7miL9PrHKQ==",
+  "dgSpecHash": "gRFCltpnkWvpJNaR7XHlTGgKw8hzX5lx6Arhd4iMcUO3jwCHk/2bKvQrvR/x3ZukJG9kKprhfxz+uFFg6LW/Xw==",
   "success": true,
-  "projectFilePath": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Model\\Employee.Entity.csproj",
+  "projectFilePath": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Entity\\Employee.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

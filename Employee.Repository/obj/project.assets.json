@@ -2798,8 +2798,8 @@
     },
     "Employee.Entity/1.0.0": {
       "type": "project",
-      "path": "../Employee.Model/Employee.Entity.csproj",
-      "msbuildProject": "../Employee.Model/Employee.Entity.csproj"
+      "path": "../Employee.Entity/Employee.Entity.csproj",
+      "msbuildProject": "../Employee.Entity/Employee.Entity.csproj"
     },
     "Employee.ViewModels/1.0.0": {
       "type": "project",
@@ -2848,6 +2848,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Entity\\Employee.Entity.csproj": {
+              "projectPath": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Entity\\Employee.Entity.csproj"
+            },
             "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Model\\Employee.Entity.csproj": {
               "projectPath": "D:\\AssesmentProjects\\EmployeeData.API\\Employee.Model\\Employee.Entity.csproj"
             },
@@ -2861,6 +2864,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2892,7 +2900,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

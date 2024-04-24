@@ -22,7 +22,6 @@ D:\AssesmentProjects\EmployeeData.API\Employee.Business\obj\Debug\net8.0\Employe
 D:\AssesmentProjects\EmployeeData.API\Employee.Business\obj\Debug\net8.0\Employee.Business.AssemblyInfo.cs
 D:\AssesmentProjects\EmployeeData.API\Employee.Business\obj\Debug\net8.0\Employee.Business.csproj.CoreCompileInputs.cache
 D:\AssesmentProjects\EmployeeData.API\Employee.Business\obj\Debug\net8.0\Employee.Business.sourcelink.json
-D:\AssesmentProjects\EmployeeData.API\Employee.Business\obj\Debug\net8.0\Employee.Business.csproj.CopyComplete
 D:\AssesmentProjects\EmployeeData.API\Employee.Business\obj\Debug\net8.0\Employee.Business.dll
 D:\AssesmentProjects\EmployeeData.API\Employee.Business\obj\Debug\net8.0\refint\Employee.Business.dll
 D:\AssesmentProjects\EmployeeData.API\Employee.Business\obj\Debug\net8.0\Employee.Business.pdb
@@ -53,3 +52,4 @@ D:\AssesmentProjects\EmployeeData.API\Employee.Business\bin\Debug\net8.0\Employe
 D:\AssesmentProjects\EmployeeData.API\Employee.Business\bin\Debug\net8.0\Employee.Entity.pdb
 D:\AssesmentProjects\EmployeeData.API\Employee.Business\bin\Debug\net8.0\Employee.Repository.pdb
 D:\AssesmentProjects\EmployeeData.API\Employee.Business\bin\Debug\net8.0\Employee.ViewModels.pdb
+D:\AssesmentProjects\EmployeeData.API\Employee.Business\obj\Debug\net8.0\Employee.98402159.Up2Date
